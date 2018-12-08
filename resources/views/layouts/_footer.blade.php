@@ -1,10 +1,7 @@
 <div class="col-md-12">
   <footer class="footer">
     <small class="slogon">
-      <img class="brand-icon" src="https://iocaffcdn.phphub.org/uploads/images/201612/12/1/iq7WQc2iuW.png?imageView2/1/w/34/h/34">
-      <a href="https://chihokyo.com">
-        刻意练习，每日精进
-      </a>
+      由 <a href="https://www.weibo.com/chihokyo" target="_blank">Chihokyo</a> 设计和编码 <span style="color: #e27575;font-size: 14px;">❤</span>
     </small>
     <nav>
       <ul>
