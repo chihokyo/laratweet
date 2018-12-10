@@ -1,8 +1,10 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>@yield('title', 'LaraTweet App') - Laravel 仿推特练习</title>
     <link rel="stylesheet" href="/css/app.css">
+
   </head>
   <body>
     @include('layouts._header')
